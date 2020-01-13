@@ -1,1 +1,1 @@
-# Go语言实现的简易比特币系统
+# Simple Bitcoin public chain system based on Golang.
