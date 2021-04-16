@@ -1,1 +1,1 @@
-# Simple Bitcoin public chain system based on Golang.
+# 比特币区块链示例项目
